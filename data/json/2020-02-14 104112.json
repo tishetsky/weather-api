@@ -1,0 +1,23 @@
+{
+    "time": 1581676872,
+    "temperature": -10.99,
+    "windBearing": 181,
+    "latitude": 55.0101,
+    "longitude": 72.0202,
+    "timezone": "Asia\/Omsk",
+    "offset": 6,
+    "summary": "Mostly Cloudy",
+    "icon": "partly-cloudy-day",
+    "precipIntensity": 0,
+    "precipProbability": 0,
+    "apparentTemperature": -17.77,
+    "dewPoint": -14.67,
+    "humidity": 0.74,
+    "pressure": 1029.8,
+    "windSpeed": 3.98,
+    "windGust": 8.3,
+    "cloudCover": 0.78,
+    "uvIndex": 0,
+    "visibility": 16.093,
+    "ozone": 354.9
+}

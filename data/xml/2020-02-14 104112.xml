@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data>
+  <time>1581676873</time>
+  <windSpeed>4.22</windSpeed>
+  <temperature>-11.68</temperature>
+  <latitude>55.3232</latitude>
+  <longitude>72.4545</longitude>
+  <timezone>Asia/Omsk</timezone>
+  <offset>6</offset>
+  <summary>Mostly Cloudy</summary>
+  <icon>partly-cloudy-day</icon>
+  <precipIntensity>0</precipIntensity>
+  <precipProbability>0</precipProbability>
+  <apparentTemperature>-18.85</apparentTemperature>
+  <dewPoint>-15.42</dewPoint>
+  <humidity>0.74</humidity>
+  <pressure>1029.9</pressure>
+  <windGust>8.49</windGust>
+  <windBearing>181</windBearing>
+  <cloudCover>0.85</cloudCover>
+  <uvIndex>0</uvIndex>
+  <visibility>16.093</visibility>
+  <ozone>351.1</ozone>
+</data>
